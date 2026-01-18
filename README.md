@@ -12,7 +12,7 @@
 
 ### If your company has a **suitable vacancy**, I would be happy to discuss the details.
 - <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [Anapolikarpova666@gmail.com](mailto:anapolikarpova666@gmail.com)
-- <img height="20" width="20" src="assets/icon_linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/anastasiia-polikarpova/)
+- <img height="20" width="20" src="assets/icon_linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/anastasiia-polikarpova-19b2bb22a/)
 
 ### API and Integration Testing
 <table class="table" border="0" width="100%">
