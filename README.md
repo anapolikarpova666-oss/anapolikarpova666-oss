@@ -138,6 +138,6 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="https://github.com/    /></td>
+    <td><img width="300" src="https://github.com/anapolikarpova666-oss/about-me/blob/main/assets/Diploma.png/></td>
   </tr>
 </table>
