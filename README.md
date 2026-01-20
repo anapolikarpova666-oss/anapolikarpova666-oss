@@ -143,3 +143,8 @@
   <em>QA Studio — Quality Assurance Engineering Program</em>
 </p>
 
+<p style="text-align: right;">
+  <img src="assets/middle diploma.png" width="300"/><br/>
+  <em>QA Studio — Quality Assurance Engineering Program</em>
+</p>
+
